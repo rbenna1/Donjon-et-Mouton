@@ -1,5 +1,5 @@
-# Donjon-et-Mouton
-Donjon et Mouton est un jeu de labyrinthe où le joueur doit naviguer à travers un donjon rempli d'obstacles et d'ennemis pour atteindre l'objectif final.
+# Moutons dans le donjon
+un jeu de labyrinthe où le joueur doit naviguer à travers un donjon rempli d'obstacles et d'ennemis pour atteindre l'objectif final.
 
 ## Lancement du jeu
 - Ouvrez un terminal ou une invite de commande.
